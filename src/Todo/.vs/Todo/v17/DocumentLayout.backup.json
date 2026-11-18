@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAC63DAC-0BAF-4D2D-A513-A9F8A7AE56BE}|Todo.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\csharpcourse\\src\\todo\\02-1-1-csharp-basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAC63DAC-0BAF-4D2D-A513-A9F8A7AE56BE}|Todo.csproj|solutionrelative:02-1-1-csharp-basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAC63DAC-0BAF-4D2D-A513-A9F8A7AE56BE}|Todo.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\csharpcourse\\src\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAC63DAC-0BAF-4D2D-A513-A9F8A7AE56BE}|Todo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC63DAC-0BAF-4D2D-A513-A9F8A7AE56BE}|Todo.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\csharpcourse\\src\\todo\\02-1-1\\02-1-1-csharp-basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC63DAC-0BAF-4D2D-A513-A9F8A7AE56BE}|Todo.csproj|solutionrelative:02-1-1\\02-1-1-csharp-basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "02-1-1-csharp-basics.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\02-1-1\\02-1-1-csharp-basics.cs",
+              "RelativeDocumentMoniker": "02-1-1\\02-1-1-csharp-basics.cs",
+              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\02-1-1\\02-1-1-csharp-basics.cs",
+              "RelativeToolTip": "02-1-1\\02-1-1-csharp-basics.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAzwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T08:32:00.588Z",
+              "WhenOpened": "2026-11-18T08:43:05.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "02-1-1-csharp-basics.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\02-1-1-csharp-basics.cs",
-              "RelativeDocumentMoniker": "02-1-1-csharp-basics.cs",
-              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\02-1-1-csharp-basics.cs*",
-              "RelativeToolTip": "02-1-1-csharp-basics.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\src\\Todo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T08:24:22.123Z",
+              "WhenOpened": "2026-11-18T08:32:00.588Z",
               "EditorCaption": ""
             }
           ]
