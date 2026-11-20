@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" width="900" height="540">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 10 5 L 0 8.5 z" fill="#475569" />
+    </marker>
+  </defs>
+
+  <!-- 배경 -->
+  <rect x="0" y="0" width="900" height="540" fill="#f6f8fc" />
+
+  <!-- 화살표 (6개) -->
+  <!-- B1 -> B2 -->
+  <line x1="360" y1="88" x2="360" y2="116" stroke="#475569" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- B2 -> B3 -->
+  <line x1="360" y1="174" x2="360" y2="202" stroke="#475569" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- B3 -> B4 (계속) -->
+  <line x1="360" y1="260" x2="360" y2="288" stroke="#475569" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="368" y="264" width="36" height="18" rx="4" fill="#f6f8fc" />
+  <text x="386" y="277" font-family="sans-serif" font-size="13" fill="#334155" text-anchor="middle">계속</text>
+
+  <!-- B3 -> Exit (승리/파산) -->
+  <line x1="520" y1="231" x2="590" y2="231" stroke="#475569" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="524" y="208" width="62" height="18" rx="4" fill="#f6f8fc" />
+  <text x="555" y="221" font-family="sans-serif" font-size="13" fill="#334155" text-anchor="middle">승리/파산</text>
+
+  <!-- B4 -> B5 -->
+  <line x1="360" y1="346" x2="360" y2="374" stroke="#475569" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- B5 -> B1 (다음 반복) -->
+  <polyline points="200,403 80,403 80,59 200,59" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="48" y="222" width="64" height="18" rx="4" fill="#f6f8fc" />
+  <text x="80" y="235" font-family="sans-serif" font-size="13" fill="#334155" text-anchor="middle">다음 반복</text>
+
+  <!-- B1: while (running) 검사 (amber) -->
+  <g id="B1">
+    <rect x="200" y="30" width="320" height="58" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <rect x="200" y="30" width="4" height="58" rx="2" fill="#d97706" />
+    <text x="362" y="65" font-family="sans-serif" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">while (running) 검사</text>
+  </g>
+
+  <!-- B2: ① Render — 화면 출력 (blue) -->
+  <g id="B2">
+    <rect x="200" y="116" width="320" height="58" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <rect x="200" y="116" width="4" height="58" rx="2" fill="#2563eb" />
+    <text x="362" y="151" font-family="sans-serif" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">① Render — 화면 출력</text>
+  </g>
+
+  <!-- B3: ② 종료 조건 검사 (red) -->
+  <g id="B3">
+    <rect x="200" y="202" width="320" height="58" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <rect x="200" y="202" width="4" height="58" rx="2" fill="#dc2626" />
+    <text x="362" y="237" font-family="sans-serif" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">② 종료 조건 검사</text>
+  </g>
+
+  <!-- B4: ③ Input — 메뉴 입력 (purple) -->
+  <g id="B4">
+    <rect x="200" y="288" width="320" height="58" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <rect x="200" y="288" width="4" height="58" rx="2" fill="#7c3aed" />
+    <text x="362" y="323" font-family="sans-serif" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">③ Input — 메뉴 입력</text>
+  </g>
+
+  <!-- B5: ④ Update — 조건문 분기 (green) -->
+  <g id="B5">
+    <rect x="200" y="374" width="320" height="58" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <rect x="200" y="374" width="4" height="58" rx="2" fill="#16a34a" />
+    <text x="362" y="409" font-family="sans-serif" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">④ Update — 조건문 분기</text>
+  </g>
+
+  <!-- Exit: 승리/파산 메시지 출력 후 break (red) -->
+  <g id="Exit">
+    <rect x="590" y="199" width="270" height="64" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <rect x="590" y="199" width="4" height="64" rx="2" fill="#dc2626" />
+    <text x="727" y="237" font-family="sans-serif" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">승리/파산 메시지 출력 후 break</text>
+  </g>
+</svg>
