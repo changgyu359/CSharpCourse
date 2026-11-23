@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Program.cs" />
+    <Compile Remove="Game.cs" />
+    <Compile Remove="UpgradeLoop.cs" />
+    <Compile Remove="클래스.cs" />
   </ItemGroup>
 
 </Project>
