@@ -1,10 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CCG\\Test\\",
+  "WorkspaceRootPath": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\ccg\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\csharpcourse\\test\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|solutionrelative:boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\csharpcourse\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CCG\\Test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|c:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\csharpcourse\\test\\avoidgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36A6953-A7CE-4185-84D8-36BCAB44B5BC}|Test.csproj|solutionrelative:avoidgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +30,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\Boss.cs",
+              "RelativeDocumentMoniker": "Boss.cs",
+              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\Boss.cs",
+              "RelativeToolTip": "Boss.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwDwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T10:04:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T09:36:05.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvoidGame.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\AvoidGame.cs",
+              "RelativeDocumentMoniker": "AvoidGame.cs",
+              "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CSharpCourse\\Test\\AvoidGame.cs",
+              "RelativeToolTip": "AvoidGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T09:23:01.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CCG\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CCG\\Test\\Program.cs",
               "ToolTip": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\CCG\\Test\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\CCG\\Test\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T09:20:10.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T09:20:10.389Z"
             }
           ]
         }

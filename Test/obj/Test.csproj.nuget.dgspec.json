@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\게임개발계좌제\\CCG\\Test\\Test.csproj": {}
+    "C:\\게임개발계좌제\\CSharpCourse\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\게임개발계좌제\\CCG\\Test\\Test.csproj": {
+    "C:\\게임개발계좌제\\CSharpCourse\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\게임개발계좌제\\CCG\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\게임개발계좌제\\CSharpCourse\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\게임개발계좌제\\CCG\\Test\\Test.csproj",
+        "projectPath": "C:\\게임개발계좌제\\CSharpCourse\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\게임개발계좌제\\CCG\\Test\\obj\\",
+        "outputPath": "C:\\게임개발계좌제\\CSharpCourse\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
